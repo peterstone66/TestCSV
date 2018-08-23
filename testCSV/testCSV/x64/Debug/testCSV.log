@@ -1,0 +1,49 @@
+﻿  main.cpp
+main.cpp(8): error C2144: syntax error : 'int' should be preceded by ';'
+main.cpp(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+main.cpp(25): error C2653: 'QXlsx' : is not a class or namespace name
+main.cpp(25): error C2065: 'Document' : undeclared identifier
+main.cpp(25): error C2146: syntax error : missing ';' before identifier 'xlsx'
+main.cpp(25): error C3861: 'xlsx': identifier not found
+main.cpp(27): error C2065: 'xlsx' : undeclared identifier
+main.cpp(27): error C2228: left of '.write' must have class/struct/union
+          type is 'unknown-type'
+main.cpp(28): error C2065: 'xlsx' : undeclared identifier
+main.cpp(28): error C2228: left of '.write' must have class/struct/union
+          type is 'unknown-type'
+main.cpp(29): error C2065: 'xlsx' : undeclared identifier
+main.cpp(29): error C2228: left of '.write' must have class/struct/union
+          type is 'unknown-type'
+main.cpp(30): error C2065: 'xlsx' : undeclared identifier
+main.cpp(30): error C2228: left of '.write' must have class/struct/union
+          type is 'unknown-type'
+main.cpp(31): error C2065: 'xlsx' : undeclared identifier
+main.cpp(31): error C2228: left of '.write' must have class/struct/union
+          type is 'unknown-type'
+main.cpp(33): error C2065: 'xlsx' : undeclared identifier
+main.cpp(33): error C2228: left of '.write' must have class/struct/union
+          type is 'unknown-type'
+main.cpp(34): error C2065: 'xlsx' : undeclared identifier
+main.cpp(34): error C2228: left of '.write' must have class/struct/union
+          type is 'unknown-type'
+main.cpp(35): error C2065: 'xlsx' : undeclared identifier
+main.cpp(35): error C2228: left of '.write' must have class/struct/union
+          type is 'unknown-type'
+main.cpp(36): error C2065: 'xlsx' : undeclared identifier
+main.cpp(36): error C2228: left of '.write' must have class/struct/union
+          type is 'unknown-type'
+main.cpp(39): error C2065: 'xlsx' : undeclared identifier
+main.cpp(39): error C2228: left of '.write' must have class/struct/union
+          type is 'unknown-type'
+main.cpp(40): error C2065: 'xlsx' : undeclared identifier
+main.cpp(40): error C2228: left of '.write' must have class/struct/union
+          type is 'unknown-type'
+main.cpp(41): error C2065: 'xlsx' : undeclared identifier
+main.cpp(41): error C2228: left of '.write' must have class/struct/union
+          type is 'unknown-type'
+main.cpp(42): error C2065: 'xlsx' : undeclared identifier
+main.cpp(42): error C2228: left of '.write' must have class/struct/union
+          type is 'unknown-type'
+main.cpp(57): error C2065: 'xlsx' : undeclared identifier
+main.cpp(57): error C2228: left of '.save' must have class/struct/union
+          type is 'unknown-type'
